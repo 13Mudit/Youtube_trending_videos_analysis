@@ -26,7 +26,7 @@ api_version = "v3"
 
 
 #api key
-api_key = "AIzaSyD-o9z0Eix0MkX-5yRD1j8PQxsXvlkeEgo"
+api_key = "<API Key>"
 
 youtube = googleapiclient.discovery.build(
     api_service_name, api_version, developerKey=api_key)
